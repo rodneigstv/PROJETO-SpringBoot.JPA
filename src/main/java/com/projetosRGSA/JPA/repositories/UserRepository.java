@@ -7,3 +7,4 @@ import com.projetosRGSA.JPA.entities.User;
 public interface UserRepository extends JpaRepository<User, Long>{
 
 }
+
